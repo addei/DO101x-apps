@@ -64,3 +64,6 @@ nb-configuration.xml
 ########
 node_modules
 .env
+express-helloworld/package-lock.json
+express-helloworld/package.json
+
